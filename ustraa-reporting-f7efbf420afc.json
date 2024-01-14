@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ustraa-reporting",
+  "private_key_id": "f7efbf420afc0d78b8953027f42a7e7624118037",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVlyESFup4rGcO\nX02mX5m28e9A0RZORHdKI0nXENcRi4mR5Xpfv3/z7j/BSEFkHLIFW8ZBDu2evmTj\nPBYd3ODCS7QNPY2u29WGAQLSKx/69rjmN6rlDoUN6D+nfkfdpMIUj0SXj48MqblA\nm6GSlMMYKs1C70srTwVSOlnbOHshyDmrjAUnRJgYJEzWhqf3W7LJ5Uxj00/nYQAF\nKH34cbTB6/DqfQfQlbZmXvDaFv7gjgkq/Vl4O6rcmufS9Gvl/DxnGzVKCsXV2VLA\n4YynVvffZL+tlWrBko+YlBwtCjd3tEw3qJaXda7VSAd16vyhiifCPSlFJsXGUgR8\nq+s5vHPtAgMBAAECggEALlxEWFnTAOhi4hK7lv4vLi9rQAViMxDXV6c7Msw78ln4\nPUuy+S9mxXqUKg7V6rXzygf2i06DMy6eVVhIcKjtvB6UcT9IDok22oRDqXykz2NY\nFNhGZrt1E+SyVFern6dQXQgP2lnVsejxBd4B/v/9LLS1ou6vwTHAtO1nbZbf2x/l\n1MgwwqkmrvBdOSK0OVzg8LrNQE/QUimKJcwX0Fagkr2mVaROvDJuJpcRd/+bD9gB\nz8NaG3AJqCWctf6hFb4eTYCMu1B+SQDsS8CzXS2FpWSJj4LKEr5P+XyeXd7bNK7A\nz7PJoDNuaQeT/BuPClCMa5Cvhmq0VQGpGHE//O2VAQKBgQD9iB1Bn0VpESI4pkPS\nEDQ/o04Z/emBrkAsL7YQ5lgqt8EM4cBiUfiCqcn1EJ+5l2dxISgXTVYDxC4ufyz8\n5W34gCWQZxgK6O57cMTMQEzUcRVhllAUTPIIFN6HKDWUUGkQwLDjwWRZB/oYIMIa\nub2lhaYTjXq3g8NhktqbuVYDLQKBgQDXq3e7+bNAFh/S+m9VmtRDvK+ZtsCZp+Yr\n3dQ52E4byWBNj23VRCP4tTMQSKVN+E8uoxstWXONpSJmqJKFwtL5mf3BnIGA5VZK\n7Z4bs2syVWGwVX8T8u/9KT+QVLsiinkmgjRgd2xVF4EQCbVqEbO7e0CFJl1FiEsv\nCDm36fmrwQKBgQCJM4Hxo0mixDzqvz9wjIhZ7/wyILCfFzdvMhqrJpyL8YkteXXt\nP0LnIw9B6c8mVoMKO9FAWv+zZhU/4F7uNRLAKkkpzkC6lreIYcx+ZEWvqcrSVs/b\nTJCmQvTx25azPpi9Eion9t5hN+nl6MRiRiYVTzBC4IuKiGnRgfF/2FptuQKBgAzG\nYV9HGTEQnm3226VseGpSwOwQATSY1299wlZy052dvhCaEF1zndXbldy/ENufe8E9\ndBypkciwIWuHTLaTpb+XOYrAZINoEkZ58MWfSRhAKnsxdUePOlv6l4NLIZKYNTjs\nuYGFUWtw6voyOQbBaa4PTPEWJqw5uIpeqFyWhW2BAoGAerbwBqR+navc9b+2Z2F5\np4vZIphu4LV+vcfCSTp1XDw1szhDl1lv6bqaaBSqQC1YU8KoddKg7h449ywZyoey\n5UuV5mocILZDTKDEbdxlZv6Y0THLol0kbh/vEOEWz6ZqBxvvvkmpfk2grWggsFcE\ntAkC6kgxEJ6EMSjvTtZ6PB4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rishabh@ustraa-reporting.iam.gserviceaccount.com",
+  "client_id": "101862379540257201280",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rishabh%40ustraa-reporting.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
